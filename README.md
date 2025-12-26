@@ -1,6 +1,7 @@
+<div align="center">
 # Ovira AI – Preventive Women’s Health Tracker
 
-<div align="center">
+
 
 **Ovira AI is an AI-powered women’s health platform that goes beyond period tracking to enable early risk detection, doctor-ready reporting, and personalized preventive care.**
 
